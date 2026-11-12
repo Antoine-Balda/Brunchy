@@ -1,0 +1,156 @@
+
+.container{
+    text-align: center;
+    padding: 20px;
+    
+}
+
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: bisque;
+  color: saddlebrown;
+}
+
+h1,
+h2 {
+  font-family: "Pacifico", cursive;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+
+footer {
+  text-align: center;
+  padding: 20px;
+  
+}
+
+
+
+
+#btn{
+    background-color: maroon;
+        border: 2px solid;
+        border-radius: 10px;
+}
+
+
+.logo{
+  background-color: orange;
+}
+header {
+  height: 140px;
+  
+
+}
+
+
+.carte-recette {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid; 
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.carte-recette .btn {
+  margin-top: auto;
+}
+
+
+
+
+
+ol {
+    list-style: none; 
+
+}
+
+#carousel-pancakes {
+      width: 500px;
+      margin:auto;
+      border: solid black 1px;
+      border-radius: 1px;
+      
+
+}
+
+
+.avis {
+  text-align: center;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: bisque;
+  color: saddlebrown;
+}
+
+h1,
+h2 {
+  font-family: "Pacifico", cursive;
+}
+
+header {
+  background-color: white;
+  border-bottom: 4px solid orange;
+}
+
+.banniere {
+  background-color: white;
+  text-align: center;
+  padding-top: 20px;
+  margin-top: 30px;
+  border: solid 2px;
+  border-radius: 50px;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+.fondateurs article {
+  background-color: white;
+  border-top: 5px solid orange;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  border-top: 2px solid orange;
+}
+
+.bloc-externe {
+  height: 300px;
+}
+
+
+.bloc-externe,
+.bloc-recette,
+.bloc-bvn {
+  text-align: left;
+}
+
+.bloc-externe,
+.bloc-recette,
+.bloc-avis,
+.bloc-bvn {
+  padding: 20px;
+  background-color: white;
+  border: 2px solid;
+  border-radius: 10px;
+}
+
+#texte-recette{
+  padding: 0 20px;
+}
